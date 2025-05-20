@@ -16,10 +16,10 @@ Welcome to the **System Design** notes.
 
 ## *LLD VS HLD*
 ### HLD : High Level Design
-    -> Tech Stack (Java/SpringBoot)</br>
-    -> DB (SQL/NoSQL)</br>
-    -> Server Scale</br>
-    -> Cost optimization
+-> Tech Stack (Java/SpringBoot)</br>
+-> DB (SQL/NoSQL)</br>
+-> Server Scale</br>
+-> Cost optimization
 
 - HLD focuses on system architecture.
 - LLD focuses on code structure.
