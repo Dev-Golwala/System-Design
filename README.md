@@ -19,4 +19,8 @@ This file contains basic notes on system design.
 - Introduction to UML diagrams</br>
 - Types of UML
 
+## [Day-5](https://youtu.be/UsNl8kcU4UA?si=Had46u_jQrOMtj08)
+- Introduction to SOLID Principles</br>
+- SRP(Single Responsibility Principle)
+
 ### [Playlist link](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=r8dA51Fa3xoEij73)
